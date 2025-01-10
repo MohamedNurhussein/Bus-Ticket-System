@@ -55,6 +55,7 @@ input[type="number"] {
 
 .btn {
     display: block;
+    margin-top: 15px;
     width: 100%;
     padding: 0.75rem;
     background-color: #35424a;
