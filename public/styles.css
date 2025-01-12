@@ -91,6 +91,10 @@ input[type="number"] {
     color: #28a745;
 }
 
+#issue {
+    color: red
+}
+
 .trip .seats {
     font-style: italic;
 }
