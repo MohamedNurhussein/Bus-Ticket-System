@@ -2,7 +2,7 @@
 Welcome to the Bus Ticket System—a cutting-edge, cloud-based application designed to revolutionize the way bus tickets are booked and managed. This system leverages modern serverless computing and real-time data synchronization to ensure a seamless and efficient experience for every user. 
 ## Table of contents
 * [Overview & Technical Documentation](#overview--technical-documentation)
-* [User Guide/Quick Start](#User-guide/Quick-start)
+* [User Guide/Quick Start](#user-guide/quick-start)
 
 ## Overview & Technical Documentation
 
