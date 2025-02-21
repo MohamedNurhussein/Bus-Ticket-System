@@ -73,9 +73,6 @@ The Bus Ticket System demonstrates the potential of cloud computing in creating 
 ## User Guide/Quick Start
 
 
-[How to use Bus Ticket System](https://app.guidde.com/playbooks/8ByaSPBf93urPqHutaYhY8)
-=======================================================================================
-
 [Click here to watch](https://app.guidde.com/share/playbooks/8ByaSPBf93urPqHutaYhY8)
 
 ### [![Quick guidde](https://static.guidde.com/v0/qg%2F06ITAddYdQcsjoz8G3UrUc8xF9H3%2F8ByaSPBf93urPqHutaYhY8%2FeLx9XeZFnpvZc9sh8WHvtc_cover.png?alt=media&token=af8797cc-1012-4f3b-9399-cc134d7f6b15)](https://app.guidde.com/share/playbooks/8ByaSPBf93urPqHutaYhY8)
